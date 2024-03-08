@@ -8,7 +8,7 @@ Utilizamos:
 - Git
 - Visual Code
 - NodeJs
-- React Natiive
+- React Native
 
 
 Muito obrigado por ler. (Foi bem poquinho  né.)
